@@ -1,4 +1,4 @@
-# 📊 Company Insights 360°
+``# 📊 Company Insights 360°
 
 An end-to-end business analytics project using **Python, SQL, and Power BI** to analyze company sales, profitability, customers, employees, departments, regions, and discounts.
 
@@ -98,3 +98,14 @@ To transform raw business data into meaningful insights and build an interactive
 **Shravani Shahakar**
 
 B.E. Graduate | Aspiring Data Analyst
+
+## 📊 Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](executive_overview.png)
+
+### Sales Analysis
+![Sales Analysis](sales_analysis.png)
+
+### Employee & Department Analysis
+![Employee & Department Analysis](employee_department_analysis.png)
